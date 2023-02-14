@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+/* .wrap{
+    display: flex;
+    padding: 10px 20px;
+}
+.in{
+    width: 40%;
+    font-size: 23px;
+} */
